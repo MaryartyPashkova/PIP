@@ -1,0 +1,78 @@
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Задание Crud создание клиента.exe.config
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Задание Crud создание клиента.exe
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Задание Crud создание клиента.pdb
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Npgsql.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Buffers.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Memory.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Text.Json.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Threading.Channels.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\Npgsql.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Buffers.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Memory.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Text.Json.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Threading.Channels.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\Downloads\Задание Crud создание клиента\obj\Debug\Задание Crud создание клиента.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Задание Crud создание клиента\obj\Debug\Задание Crud создание клиента.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Задание Crud создание клиента\obj\Debug\Задание Crud создание клиента.csproj.CopyComplete
+C:\Users\hp\Downloads\Задание Crud создание клиента\obj\Debug\Задание Crud создание клиента.exe
+C:\Users\hp\Downloads\Задание Crud создание клиента\obj\Debug\Задание Crud создание клиента.pdb
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Задание Crud создание клиента.exe.config
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Задание Crud создание клиента.exe
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Задание Crud создание клиента.pdb
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Npgsql.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Text.Json.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Threading.Channels.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Npgsql.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Buffers.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Memory.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Text.Json.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Threading.Channels.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\obj\Debug\Задание Crud создание клиента.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\obj\Debug\Задание Crud создание клиента.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\obj\Debug\Задание Crud создание клиента.csproj.CopyComplete
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\obj\Debug\Задание Crud создание клиента.exe
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\obj\Debug\Задание Crud создание клиента.pdb
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Dapper.dll
+C:\Users\hp\Desktop\ПРВ_Задание_1\Задание Crud создание клиента\bin\Debug\Dapper.xml
